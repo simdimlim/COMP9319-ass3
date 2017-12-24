@@ -3,9 +3,9 @@ A program that inputs search terms then generates and uses index files to find f
 
 # Libraries
 - uthash
-  C macros for hash tables by Troy D. Hanson
-  source: https://github.com/troydhanson/uthash
-  documentation: http://troydhanson.github.com/uthash/
+C macros for hash tables by Troy D. Hanson
+source: https://github.com/troydhanson/uthash
+documentation: http://troydhanson.github.com/uthash/
 
 - stmr
 Martin Porter’s Stemming algorithm as a C library by wooorm
