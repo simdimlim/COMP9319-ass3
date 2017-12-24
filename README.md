@@ -1,10 +1,6 @@
 # COMP9319-ass3
 A program that inputs search terms then generates and uses index files to find files with all the search terms and outputs the file names in decreasing order of frequency of the term occurrences.
 
-# a3search.c
-z5015911
-Elizabeth Lim
-
 # LIBRARIES
 - uthash
 C macros for hash tables by Troy D. Hanson
